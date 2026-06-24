@@ -1,0 +1,15 @@
+streamlit
+earthengine-api
+geemap
+ultralytics
+opencv-python
+numpy
+pandas
+rasterio
+geopandas
+shapely
+requests
+Pillow
+streamlit-folium
+folium
+branca
